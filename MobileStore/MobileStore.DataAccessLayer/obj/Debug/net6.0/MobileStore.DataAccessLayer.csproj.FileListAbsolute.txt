@@ -1,0 +1,14 @@
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\bin\Debug\net6.0\MobileStore.DataAccessLayer.deps.json
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\bin\Debug\net6.0\MobileStore.DataAccessLayer.runtimeconfig.json
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\bin\Debug\net6.0\MobileStore.DataAccessLayer.dll
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\bin\Debug\net6.0\MobileStore.DataAccessLayer.pdb
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\obj\Debug\net6.0\MobileStore.DataAccessLayer.csproj.AssemblyReference.cache
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\obj\Debug\net6.0\MobileStore.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\obj\Debug\net6.0\MobileStore.DataAccessLayer.AssemblyInfoInputs.cache
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\obj\Debug\net6.0\MobileStore.DataAccessLayer.AssemblyInfo.cs
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\obj\Debug\net6.0\MobileStore.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\obj\Debug\net6.0\MobileStore.DataAccessLayer.dll
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\obj\Debug\net6.0\refint\MobileStore.DataAccessLayer.dll
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\obj\Debug\net6.0\MobileStore.DataAccessLayer.pdb
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\obj\Debug\net6.0\MobileStore.DataAccessLayer.genruntimeconfig.cache
+D:\ExtraaEdge\MobileStore\MobileStore.DataAccessLayer\obj\Debug\net6.0\ref\MobileStore.DataAccessLayer.dll
